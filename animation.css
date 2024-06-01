@@ -1,0 +1,119 @@
+header h2::after{
+    content: "|";
+    animation-name: typing;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes typing{
+    2%{
+        content: "D|";
+    }
+    4%{
+        content: "DE|";
+    }
+    6%{
+        content: "DES|";
+    }
+    8%{
+        content: "DESI|";
+    }
+    10%{
+        content: "DESIG|";
+    }
+    12%{
+        content: "DESIGN|";
+    }
+    14%{
+        content: "DESIGNE|";
+    }
+    16%{
+        content: "DESIGNER|";
+    }
+    30%{
+        content: "DESIGNER|";
+    }
+    32%{
+        content: "DESIGN|";
+    }
+    34%{
+        content: "DESIG|";
+    }
+    36%{
+        content: "DESI|";
+    }
+    38%{
+        content: "DESI|";
+    }
+    40%{
+        content: "DES|";
+    }
+    42%{
+        content: "DE|";
+    }
+    44%{
+        content: "D|";
+    }
+    46%{
+        content: "|";
+    }
+    48%{
+        content: "D|";
+    }
+    50%{
+        content: "DE|";
+    }
+    52%{
+        content: "DEV|";
+    }
+    54%{
+        content: "DEVE|";
+    }
+    56%{
+        content: "DEVEL|";
+    }
+    58%{
+        content: "DEVELO|";
+    }
+    60%{
+        content: "DEVELOP|";
+    }
+    62%{
+        content: "DEVELOPE|";
+    }
+    64%{
+        content: "DEVELOPER|";
+    }
+    78%{
+        content: "DEVELOPER|";
+    }
+    80%{
+        content: "DEVELOPE|";
+    }
+    82%{
+        content: "DEVELOP|";
+    }
+    84%{
+        content: "DEVELO|";
+    }
+    86%{
+        content: "DEVEL|";
+    }
+    88%{
+        content: "DEVE|";
+    }
+    90%{
+        content: "DEV|";
+    }
+    92%{
+        content: "DE|";
+    }
+    94%{
+        content: "D|";
+    }
+    96%{
+        content: "|";
+    }
+  
+  
+}
